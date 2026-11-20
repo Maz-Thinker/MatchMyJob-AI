@@ -1,0 +1,35 @@
+
+# Jupyter kernel pour VS Code
+ipykernel>=6.29,<7
+
+# Variables d'environnement
+python-dotenv>=1.0,<2
+
+# Appels LLM via OpenRouter
+openai>=1.50,<3
+
+# Orchestration du graphe
+langgraph>=1.0,<2
+
+# Validation des données
+pydantic>=2.8,<3
+
+# Extraction des CV
+pymupdf>=1.24,<2
+python-docx>=1.1,<2
+
+# Affichage du graphe et des résultats
+ipython>=8.20,<10
+
+
+langchain-openai>=0.3,<2
+
+pymongo>=4.6,<5
+
+
+
+
+streamlit>=1.40
+langgraph-checkpoint-mongodb>=0.1
+langchain-core>=0.3
+requests>=2.32
